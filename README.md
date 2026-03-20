@@ -1,11 +1,11 @@
 # Music_Store_Data_Analysis
 SQL_Project
 
-Objective
+**Objective**
 
 The main objective of this project is to design and analyze a relational database for an e-commerce (music store) system using SQL. The project focuses on creating a structured database schema and extracting meaningful business insights such as customer behavior, sales performance, and product trends.
-
-Steps
+**
+***Steps***
 1. Database Creation
 
 Created a database (ecom_db) to manage the system.
@@ -71,7 +71,7 @@ Best-selling products
 Product ratings.
 
 
-Insights
+**Insights**
 
 Identified top-performing products based on sales quantity.
 
